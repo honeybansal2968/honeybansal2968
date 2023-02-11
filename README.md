@@ -1,5 +1,12 @@
 ### Hi there 👋
-### I am Honey Bansal , a Flutter App Developer with Artificial Intelligence and Machine Learning Specialization. I do believe in creating a Sustainable Future and thus I always work in Sustainable Direction.
+I am Honey Bansal , a Flutter App Developer with Artificial Intelligence and Machine Learning Specialization. I do believe in creating a Sustainable Future and thus I always work in Sustainable Direction. I like to connect with people with same ENTHUSIASM & AIM.
+<li> Currently working on Flutter App with StartUp Idea
+<li> Looking to Collaborate with Other StartUps
+
+#### Connect With me : [Github](https://github.com/honeybansal2968), [Linkedin](https://www.linkedin.com/in/honey-bansal-430a46194/), [Instagram](https://www.instagram.com/honeybansal23/)
+
+#### Visitors Count
+<img align="left" src = "https://profile-counter.glitch.me/honeybansal2968/count.svg" alt ="Loading">
 <!--
 **honeybansal2968/honeybansal2968** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
