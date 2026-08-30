@@ -6,7 +6,8 @@ I am Honey Bansal , a Flutter App Developer with Artificial Intelligence and Mac
 #### Connect With me : [Github](https://github.com/honeybansal2968), [Linkedin](https://www.linkedin.com/in/honey-bansal-430a46194/), [Instagram](https://www.instagram.com/honeybansal23/)
 
 #### Visitors Count
-<img align="left" src = "https://profile-counter.glitch.me/honeybansal2968/count.svg" alt ="Loading">
+
+![Profile Views](https://komarev.com/ghpvc/?username=honeybansal2968&label=Profile%20Views&color=0e75b6&style=flat)
 <!--
 **honeybansal2968/honeybansal2968** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
